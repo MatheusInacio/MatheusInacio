@@ -1,5 +1,5 @@
 <div>👨‍💻 Desenvolvedor Java Web | GestorIdeal</div>
-<div>👨‍🏫 Professor | Secretaria do Estado da Educação do Parana</div>
+<div>👨‍🏫 Professor | Secretaria do Estado da Educação do Paraná</div>
 <div>🤟🎸💪⚽️🎮🥊🐕</div>
 
 ### Ferramentas e Tecnologias
